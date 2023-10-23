@@ -40,7 +40,7 @@ const MyForm = () => {
 
                 {formStatus &&
                     <div>
-                        <h4>Message Sent !!!!!</h4>
+                        <h4>Message Sent !!!</h4>
                     </div>
                 }
         </div>
